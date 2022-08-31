@@ -1,0 +1,16 @@
+PART_ID,Part,Block_no,Trial_no,Stimulus,Stim Color,KeyPressed,Reaction time,Czy Zgodny BodziecCorrectness
+M20,training,x,1,RÓŻOWY,green,0,1.697025899997243,0,x
+M20,training,x,2,CZERWONY,blue,0,0.3828657000012754,0,x
+M20,training,x,3,ZIELONY,blue,0,0.2881145999999717,0,x
+M20,training,x,4,ZIELONY,blue,0,0.3408646999996563,0,x
+M20,training,x,5,CZERWONY,pink,0,1.107390299999679,0,x
+M20,training,x,6,NIEBIESKI,red,0,0.38896550000208663,0,x
+M20,training,x,7,ZIELONY,green,0,0.4794486999999208,1,x
+M20,training,x,8,RÓŻOWY,green,0,0.21736799999780487,0,x
+M20,training,x,9,NIEBIESKI,pink,0,0.3825579000003927,0,x
+M20,training,x,10,NIEBIESKI,red,0,0.1837502999987919,0,x
+M20,training,x,11,ZIELONY,blue,0,0.8680439000017941,0,x
+M20,training,x,12,ZIELONY,green,0,0.5474028999997245,1,x
+M20,training,x,13,NIEBIESKI,blue,0,0.518168999999034,1,x
+M20,training,x,14,NIEBIESKI,blue,0,0.26445809999859193,1,x
+M20,training,x,15,RÓŻOWY,red,0,0.32350360000054934,0,x

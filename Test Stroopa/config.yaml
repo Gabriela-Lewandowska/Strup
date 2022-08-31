@@ -1,0 +1,13 @@
+# All values in no of frames
+BACKGROUND_COLOR: darkgray
+FRAME_RATE: 60
+FIX_CROSS_TIME: 30 
+NO_BLOCKS: 2
+FIX_CROSS_COLOR: black
+STIM_COLOR: black
+STIM_SIZE: 50
+STIM_TIME: 15
+REACTION_TIME: 5
+REACTION_KEYS: [1, 2, 9, 0]
+Trials in block: 50
+
