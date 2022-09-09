@@ -10,4 +10,5 @@ STIM_TIME: 15
 REACTION_TIME: 5
 REACTION_KEYS: [1, 2, 9, 0]
 Trials in block: 50
-
+COLORS: ["pink", "red", "green", "blue"]
+STIM_TEXT: [ROZOWY, CZERWONY, ZIELONY, NIEBIESKI]
